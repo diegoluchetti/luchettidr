@@ -1,10 +1,10 @@
-[![DIEGO-LUCHETTI.png](https://i.postimg.cc/x1w4vNBY/DIEGO-LUCHETTI.png)](https://postimg.cc/5Xmg1yxk)
+[![DIEGO-LUCHETTI.png](https://daflwcl3bnxyt.cloudfront.net/m/25d36625243fd596/original/eVTOL-website-new-6.jpg)](https://postimg.cc/5Xmg1yxk)
 
 Hello There!
 
-I am ungraduated student of Computer Engineering and Data Engineering at Universidade Paulista (UNIP-SJC).
+I am ungraduated student of Robotic, Instrumentation, Automation & Control Engineering at Universidade Paulista (UNIP-SJC).
 - 🔭 I’m currently working with Python, and Scala.
-- 🤝 I’m looking to collaborate on data engineering projects. 
+- 🤝 I’m looking to collaborate on aerounauthical systems projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luchettidr)
 
